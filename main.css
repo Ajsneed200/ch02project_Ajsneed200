@@ -1,0 +1,14 @@
+<!-- Andrew Sneed
+9/17/2025 -->
+h1 {
+	font-family: Copperplate, "Copperplate Gothic";
+	font-size: 3em;
+}
+
+.sample-class {
+  color: #ff0000;
+}
+
+#footer {
+  font-size: 0.9em;
+}
